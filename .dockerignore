@@ -1,0 +1,8 @@
+data/
+notebooks/
+__pycache__/
+*.zip
+*.xlsx
+.git
+venv
+.DS_Store

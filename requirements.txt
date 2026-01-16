@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+matplotlib
+openpyxl
+mlxtend
+mlflow
+prometheus-fastapi-instrumentator
